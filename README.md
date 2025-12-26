@@ -14,7 +14,7 @@ The project was developed as part of the **Applied AI** program at **Gopal Naray
 
 ## 🚀 Live Demo
 Check out the live deployment of the project here:
-**[Link to your Streamlit App]** *(Replace this text with your actual app link, e.g., https://your-app-name.streamlit.app/)*
+**[[Link to your Streamlit App](https://mangal1910-deploymodeltest-app-try4ws.streamlit.app/#telecom-customer-churn-prediction)]
 
 ---
 
@@ -60,5 +60,5 @@ Follow these steps to run the project on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/telecom-churn-prediction.git](https://github.com/your-username/telecom-churn-prediction.git)
+git clone [https://github.com/mangal1910/DeployModeltest](https://github.com/your-username/telecom-churn-prediction.git)
 cd telecom-churn-prediction
